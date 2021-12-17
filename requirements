@@ -1,0 +1,4 @@
+flask
+tensorflow-cpu
+numpy
+hiperparameter tuning
